@@ -1,6 +1,5 @@
 print('Hello World!')
 print(1 * 2)
-
 '''
 
 Playing with some variables
@@ -14,4 +13,3 @@ oneHundread = 100
 twoThousand = 2000
 
 print(oneHundread * twoThousand)
-
