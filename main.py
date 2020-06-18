@@ -12,4 +12,4 @@ print(x * y)
 oneHundread = 100
 twoThousand = 2000
 
-print(oneHundread * twoThousand)
+print(twoThousand / oneHundread)
