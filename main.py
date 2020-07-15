@@ -18,3 +18,8 @@ x = 20
 y = 300
 print(x, y)
 print(x - y + oneHundread * twoThousand)
+
+# and-or-not #
+stringA = ''
+val  = 1
+(stringA == "value") and (val < 15)
