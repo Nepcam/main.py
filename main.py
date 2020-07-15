@@ -21,5 +21,6 @@ print(x - y + oneHundread * twoThousand)
 
 # and-or-not #
 stringA = ''
-val  = 1
+val = 1
 (stringA == "value") and (val < 15)
+print(val)
